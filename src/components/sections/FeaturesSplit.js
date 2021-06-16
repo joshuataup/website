@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Increase the likelihood of viewer conversion',
+    paragraph: 'Regardless of a creator’s size most creators get a limited number of opportunities to convert a viewer before they just start ignoring your content or move on to the next creator. Creators that use Hypebility can make sure their content is optimized'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  actionable
+                  Engaging
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Understand what people think about your content
+                  Get more organic visibility and convert users off-platform
                   </h3>
                 <p className="m-0">
-                  Whether you've post the content or feel like you have something great that you want to test, use Hypebilty to gauge what people like your viewers think. You can use their actionable feedback to change things up or move ahead with your posts and streams!                  </p>
+                  Your content is going to be viewed by an audience that is on your platform and views content in your category. If viewers like what they see they’ll have the ability to follow/subscribe through direct links!                </p>
               </div>
               <div className={
                 classNames(
@@ -92,14 +92,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  vetted
+                  Actionable
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Get data you can immediately leverage on upcoming content
                   </h3>
                 <p className="m-0">
-                  Comments and chat sections aren't the best indicators to understand what your viewers think of your content.
-                  </p>
+                  Whether you want to better understand the factors involved in a videos virality or underperformance or if you want to test content before uploading it, Hypebility gets you relevant data that you can immediately put to use on future uploads and streams.                  </p>
               </div>
               <div className={
                 classNames(
@@ -118,14 +117,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                    engagement
+                  Vetted
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
+                  Reviews are monitored for optimal quality
+                </h3>
                 <p className="m-0">
-                Hypebility gives you awesome content dat and the opportunity to engage with individuals who may not see your content otherwise and you gain a follower for life.
-                </p>
+                  Our reviewer responses are vetted for authenticity and relevance. If the feedback is not actionable, too general, or just poor then it will not be included in your analysis.                 </p>
               </div>
               <div className={
                 classNames(
