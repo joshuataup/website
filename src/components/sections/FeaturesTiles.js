@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Understand what people think about your content',
-    paragraph: "Whether you've post the content or feel like you have something great that you want to test, use Hypebilty to gauge what people like your viewers think. You can use their actionable feedback to change things up or move ahead with your posts and streams!"
+    title: 'Companies spend $12k per focus group to test content, now creators can too at a fraction of the cost!',
+    paragraph: "Creators are becoming the main driver for online entertainment; however, they do not have the same level of insight generation or content feedback as companies. Companies spend more than $3B+ annually to gauge content success and gain feedback. With Hypebility, creators no longer need anywhere near that level of capital to get the same level of insight!"
   };
 
   return (
@@ -71,11 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Personal Reviews
+                    Targeted Reviewing
                     </h4>
                   <p className="m-0 text-sm">
-                    Have your content reviewed by individuals interested in your category on relevant platforms
-                    </p>
+                    Have your content reviewed by individuals who are interested in the categories you create in and use the same platforms you create on.                    </p>
                 </div>
               </div>
             </div>
@@ -93,11 +92,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Customized Questions
+                    Customizable, Insightful and Actionable
                     </h4>
                   <p className="m-0 text-sm">
-                    Pick questions curated by our experts or submit your own!
-                    </p>
+                    Pick questions prepared by experts or submit your own. You will receive insightful feedback and actionable recommendations on your content.
+                  </p>
                 </div>
               </div>
             </div>
@@ -115,10 +114,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Increased engagement
+                    Affordable & Flexible
                     </h4>
                   <p className="m-0 text-sm">
-                    Get actionable and vetted feedback and the opportunity of convert viewers to followers
+                    Our price points ensure that Hypebility is accessible to all creators! Even so, reviewers get paid to review content so you can pay for Hypebility with Hypebility!
                     </p>
                 </div>
               </div>

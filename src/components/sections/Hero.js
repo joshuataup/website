@@ -62,7 +62,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Better content engagement for <span className="text-color-primary">Creators</span>
+              Make your content more <span className="text-color-primary">Engaging</span> and <span className="text-color-primary">Visible</span>
             </h1>
             <div className="container-xs">
               <SocialIcon network="tiktok" fgColor="#fff" />
@@ -73,7 +73,8 @@ const Hero = ({
               <SocialIcon network="instagram" fgColor="#fff" />
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 <br/>
-Hyperbility gives creators the opportunity to get actionable feedback on their content from some of the most popular platforms. Gain feedback to make your content better  and increase engagement from views in your niche!                </p>
+                Hypebility gives creators the opportunity to test their content in front of a highly targeted audience to get actionable data on overall viewer sentiment, content engagement and conversion likelihood.
+              </p>
               {/*<div className="reveal-from-bottom" data-reveal-delay="600">*/}
               {/*  <ButtonGroup>*/}
               {/*    <Button tag="a" color="primary" wideMobile href="https://cruip.com/">*/}
